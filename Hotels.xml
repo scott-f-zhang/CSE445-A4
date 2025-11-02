@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels
+  xmlns="ConsoleApp1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="ConsoleApp1 Hotels.xsd">
+    <Hotel Rating="4.5">
+        <Name>The Peninsula Shanghai</Name>
+        <Phone>021-2327-2888</Phone>
+        <Phone>021-2327-2000</Phone>
+        <Address NearestAirport="Shanghai Pudong International Airport">
+        <Number>32</Number>
+        <Street>Zhongshan East 1st Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200002</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>Waldorf Astoria Shanghai on the Bund</Name>
+        <Phone>021-6322-9988</Phone>
+        <Address NearestAirport="Shanghai Hongqiao International Airport">
+        <Number>2</Number>
+        <Street>Zhongshan East 1st Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200002</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.7">
+        <Name>Park Hyatt Shanghai</Name>
+        <Phone>021-6888-1234</Phone>
+        <Address NearestAirport="Shanghai Pudong International Airport">
+        <Number>100</Number>
+        <Street>Century Ave</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200120</Zip>
+        </Address>
+    </Hotel>
+     <Hotel Rating="4.6">
+        <Name>Grand Hyatt Shanghai</Name>
+        <Phone>021-5049-1234</Phone>
+        <Address NearestAirport="Shanghai Pudong International Airport">
+        <Number>88</Number>
+        <Street>Century Ave</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200121</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.7">
+        <Name>The Ritz-Carlton Shanghai, Pudong</Name>
+        <Phone>021-2020-1888</Phone>
+        <Address NearestAirport="Shanghai Pudong International Airport">
+        <Number>8</Number>
+        <Street>Century Ave</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200120</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel Rating="4.4">
+        <Name>JW Marriott Hotel Shanghai at Tomorrow Square</Name>
+        <Phone>021-5359-4969</Phone>
+        <Address NearestAirport="Shanghai Hongqiao International Airport">
+        <Number>399</Number>
+        <Street>Nanjing West Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200003</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel Rating="4.5">
+        <Name>Fairmont Peace Hotel</Name>
+        <Phone>021-6321-6888</Phone>
+        <Address NearestAirport="Shanghai Hongqiao International Airport">
+        <Number>20</Number>
+        <Street>Nanjing East Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200002</Zip>
+        </Address>
+
+    </Hotel>
+
+    <Hotel Rating="4.6">
+        <Name>Bulgari Hotel Shanghai</Name>
+        <Phone>021-3606-7788</Phone>
+        <Address NearestAirport="Shanghai Hongqiao International Airport">
+        <Number>33</Number>
+        <Street>North Henan Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200080</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.3">
+        <Name>The Langham, Shanghai, Xintiandi</Name>
+        <Phone>021-2330-2288</Phone>
+        <Address NearestAirport="Shanghai Hongqiao International Airport">
+        <Number>99</Number>
+        <Street>Madang Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200021</Zip>
+        </Address>
+    </Hotel>
+
+<Hotel Rating="4.2">
+        <Name>InterContinental Shanghai Jing'An</Name>
+        <Phone>021-5253-9999</Phone>
+        <Address NearestAirport="Shanghai Hongqiao International Airport">
+        <Number>500</Number>
+        <Street>Hengfeng Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200070</Zip>
+        </Address>
+
+    </Hotel>
+    <Hotel Rating="4.4">
+        <Name>W Shanghai - The Bund</Name>
+        <Phone>021-2286-9999</Phone>
+        <Phone>021-2286-9000</Phone>
+        <Address NearestAirport="Shanghai Pudong International Airport">
+        <Number>66</Number>
+        <Street>Yincheng Middle Rd</Street>
+        <City>Shanghai</City>
+        <State>SH</State>
+        <Zip>200120</Zip>
+        </Address>
+
+    </Hotel>
+
+    </Hotels>
